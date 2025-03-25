@@ -122,6 +122,58 @@ const projectData = [
             {
                 src: "projects/Sketch/IMG_20191216_214921.jpg",
                 title: "Character Sketch"
+            },
+            {
+                src: "projects/Sketch/IMG_20200322_112651_847.jpg",
+                title: "Character Sketch"
+            },
+            {
+                src: "projects/Sketch/IMG_20200429_212426_603.jpg",
+                title: "Character Sketch"
+            },
+            {
+                src: "projects/Sketch/IMG_20200430_190733_523.jpg",
+                title: "Character Sketch"
+            },
+            {
+                src: "projects/Sketch/IMG_20200728_112603_101.jpg",
+                title: "Character Sketch"
+            },
+            {
+                src: "projects/Sketch/IMG_20200924_170449.jpg",
+                title: "Character Sketch"
+            },
+            {
+                src: "projects/Sketch/IMG_20210604_100246_760.jpg",
+                title: "Character Sketch"
+            },
+            {
+                src: "projects/Sketch/IMG_20230801_162200.jpg",
+                title: "Character Sketch"
+            },
+            {
+                src: "projects/Sketch/IMG-20190125-WA0054.jpg",
+                title: "Character Sketch"
+            },
+            {
+                src: "projects/Sketch/IMG-20190804-WA0001.jpg",
+                title: "Character Sketch"
+            },
+            {
+                src: "projects/Sketch/LRM_EXPORT_32124353872789_20190921_175521574.jpg",
+                title: "Character Sketch"
+            },
+            {
+                src: "projects/Sketch/LRM_EXPORT_158271690355039_20191207_202653207.jpg",
+                title: "Character Sketch"
+            },
+            {
+                src: "projects/Sketch/PicsArt_04-12-12.44.35-01.jpg",
+                title: "Character Sketch"
+            },
+            {
+                src: "projects/Sketch/PicsArt_06-27-11.06.55.jpg",
+                title: "Character Sketch"
             }
             // ... more sketches ...
         ]
