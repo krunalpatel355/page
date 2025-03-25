@@ -101,6 +101,10 @@ const projectData = [
             {
                 src: "projects/Lighting& Texturing/A4_Vinit_Sanghvi_Final_01.png",
                 title: "Environment Lighting"
+            },
+            {
+                src: "projects/Lighting& Texturing/A5_Vinit_Sanghvi_final_01.png",
+                title: "Lighting Study 4"
             }
         ]
     },
